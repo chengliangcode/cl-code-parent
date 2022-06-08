@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>com.cl.code</groupId>
-    <artifactId>d-code-parent</artifactId>
+    <artifactId>cl-code-parent</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
-    <name>d-code-parent</name>
+    <name>cl-code-parent</name>
     <description>cl code common parent</description>
 
     <developers>
