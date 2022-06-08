@@ -24,4 +24,18 @@
         </developer>
     </developers>
 
+    <properties>
+        <cl.code.version>1.0.0</cl.code.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.cl.code</groupId>
+                <artifactId>cl-code-common</artifactId>
+                <version>${cl.code.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
 </project>
